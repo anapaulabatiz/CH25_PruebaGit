@@ -10,5 +10,5 @@ Este proyecto incluye codigo en `HTML` y esta pensado para:
 
 ---
 
-### Gracias por tu aportaciones
+### Gracias por tu aportaciones y comentarios
 
